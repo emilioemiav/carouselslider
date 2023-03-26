@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container h2 {
+  font-family: "Anton";
+  padding-top: 4px;
+}
+.container h3 {
+  padding-bottom: 8px;
+  font-family: "Cabin Condensed";
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/burger1.jpg",
+    "title": "Promo 1",
+    "description": "Lörem ipsum bödat metrogyn om än diläliga. Surdegshotell bioterrorism. Antiling andrafiering.  "
+  },
+  {
+    "id": 2,
+    "image": "/burger2.jpg",
+    "title": "Promo 2",
+    "description": "Lörem ipsum bödat metrogyn om än diläliga. Surdegshotell bioterrorism. Antiling andrafiering.  "
+  },
+  {
+    "id": 3,
+    "image": "/burger3.jpg",
+    "title": "Promo 3",
+    "description": "Lörem ipsum bödat metrogyn om än diläliga. Surdegshotell bioterrorism. Antiling andrafiering.  "
+  }
+]
